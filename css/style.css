@@ -8,12 +8,11 @@
     font-size: 25px;
 }
 
-#navigation {
+#list-item {
     background-color: lightgoldenrodyellow;
     display: flex;
     justify-content: space-around;
-}
-
+    font-size: 15px;
 #main {
     width: 70%;
     float: left;
