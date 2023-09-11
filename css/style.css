@@ -1,6 +1,6 @@
 #body {
     text-align: center;
-    background-color: rgb(71, 255, 141);
+    background-color: rgb(71, 255, 178);
 }
 
 #header {
@@ -17,13 +17,13 @@
 #main {
     width: 70%;
     float: left;
-    background-color: cyan;
+    background-color: brown;
 }
 
 #sidebar {
     width: 30%;
     float: right;
-    background-color: lightgrey;
+    background-color: black;
 }
 
 #footer {
