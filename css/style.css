@@ -6,6 +6,8 @@
 #header {
     text-align: center;
     font-size: 25px;
+    background-color: rgb(255, 99, 71);
+    font-size: 24px;
 }
 
 #navigation {
@@ -31,4 +33,9 @@
     text-align: center;
     color: cyan;
     background-color: blue;
+}
+
+#list-item{
+    font-size: 15px;
+    padding:10px;
 }
