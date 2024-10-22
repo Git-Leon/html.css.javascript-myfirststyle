@@ -5,13 +5,20 @@
 
 #header {
     text-align: center;
-    font-size: 25px;
+    background-color: rgb(255, 99, 71);
+    font-size: 24px;
 }
 
 #navigation {
     background-color: lightgoldenrodyellow;
     display: flex;
     justify-content: space-around;
+
+}
+#list-item {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
 }
 
 #main {
