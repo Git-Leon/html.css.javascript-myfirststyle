@@ -1,17 +1,22 @@
 #body {
+    font-size: 24px;
     text-align: center;
-    background-color: rgb(71, 255, 141);
+    background-color: (71, 255, 141);
+
 }
 
 #header {
+    font-size: 24px;
     text-align: center;
-    font-size: 25px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 99, 71);
+    padding: 15px;
 }
 
-#navigation {
-    background-color: lightgoldenrodyellow;
-    display: flex;
-    justify-content: space-around;
+#list-item {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    padding: 10px
 }
 
 #main {
